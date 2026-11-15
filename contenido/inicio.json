@@ -369,17 +369,17 @@
       "ancla": "faq"
     },
     {
+      "texto": "Cuéntanos a qué te dedicas y cómo quieres que te vean. ==Compártenos la URL de tu plantilla favorita.== Puedes elegir de entre muchos proveedores **que cuentan con planes gratuitos.**",
+      "fondo_gris": true,
+      "enviado_titulo": "Mensaje listo.",
+      "ancla": "contacto",
+      "whatsapp_enlace": "https://wa.me/525633668185?text=Hola%2C%20me%20interesa%20un%20sitio%20para%20mi%20negocio",
+      "whatsapp": "+52 56 3366 8185",
+      "enviado_texto": "Se abrió tu aplicación de correo con el mensaje: sólo falta darle Enviar.",
       "tipo": "contacto",
       "titulo": "Empecemos por conocer tu negocio.",
-      "texto": "Cuéntanos a qué te dedicas y cómo quieres que te vean. ==Compártenos la URL de tu plantilla favorita.== Puedes elegir de entre muchos proveedores **que cuentan con planes gratuitos.**",
-      "whatsapp": "",
-      "whatsapp_enlace": "",
-      "ubicacion": "Ciudad de México · Servicio 100% en línea",
-      "fondo_gris": true,
-      "ancla": "contacto",
       "correo_destino": "",
-      "enviado_titulo": "Mensaje listo.",
-      "enviado_texto": "Se abrió tu aplicación de correo con el mensaje: sólo falta darle Enviar."
+      "ubicacion": "Ciudad de México · Servicio 100% en línea"
     },
     {
       "tipo": "notas",
