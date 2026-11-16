@@ -18,7 +18,7 @@
     },
     {
       "tipo": "pasos",
-      "titulo": "En México, la discriminación laboral está prohibida.",
+      "titulo": "Si se prueba discriminación labora, puedes acreditar una indemnización.",
       "texto": "La SCJN ha determinado que los mismos criterios de no discriminación en la relación laboral ==también se deben de aplicar en los procesos de contratación== de acuerdo a los siguientes principios constitucionales:",
       "tarjetas": [
         {
@@ -210,12 +210,13 @@
         }
       ],
       "nota": "La integración de plataformas de terceros —reservas, citas, pagos, membresías— se cotiza por separado. [Consulta qué incluye tu plan y cuáles son servicios adicionales.](servicios.html)",
-      "fondo_gris": false,
+      "fondo_gris": true,
       "ancla": "precios"
     },
     {
       "texto": "GraphicaWeb | Opciones \"hágalo usted mismo\" (DIY) | Diseñador/a Web",
       "fondo_gris": true,
+      "oculto": true,
       "ancla": "compara",
       "col1": {
         "nombre": "GraphicaWeb",
